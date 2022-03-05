@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+ul {
+  list-style-type: none;
+  margin: -10px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #333;
+  height: 50px;
+}
+
+* {
+  text-align: justify;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 12px 12px;
+  text-decoration: none;
+  float: left;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.line-right {
+  border-right: 2px solid black;
+}
+
+body {
+  background-image: url('https://wallpaperaccess.com/full/3179399.jpg');
+}
+
+#activePlants{
+	text-decoration: none
+}
+
+.right {
+  float: right;
+  padding: 30px;
+}
+
+.left {
+  float: left;
+  padding: 30px;
+}
+
+#info {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+#invisible1 {
+	opacity: 0.0;
+}
+
+#invisible2 {
+	opacity: 0.0;
+	font-size: 30px;
+	margin:70px;
+	margin-left: 50px;
+  margin-right: 50px;
+}
+
+#invisible3 {
+	opacity: 0.0;
+	margin:10px;
+}
+
+#form {
+    background-color: #98d99c;
+    border-style: solid;
+    border-radius: 30px;
+    width: 55%;
+    height: 90%;
+}
+
+button{
+	position: absolute;
+	width:200px;
+	height:65px;
+	border-radius: 8px;
+}
