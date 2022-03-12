@@ -1074,57 +1074,95 @@
         "image": ""
     },
     {
-        "name": "",
-        "info": "",
-        "creation":0,
+        "name": "Tuvalu",
+        "info": "Tuvalu is an island country in the Polynesian subregion of Oceania in the Pacific Ocean. Its islands are situated about midway between Hawaii and Australia. They lie east-northeast of the Santa Cruz Islands (which belong to the Solomon Islands), northeast of Vanuatu, southeast of Nauru, south of Kiribati, west of Tokelau, northwest of Samoa and Wallis and Futuna, and north of Fiji. Tuvalu is composed of three reef islands and six atolls.",
+        "creation":1978,
         "image": ""
     },
     {
-        "name": "",
-        "info": "",
-        "creation":0,
+        "name": "Uganda",
+        "info": "Uganda is a landlocked country in East Africa. The country is bordered to the east by Kenya, to the north by South Sudan, to the west by the Democratic Republic of the Congo, to the south-west by Rwanda, and to the south by Tanzania. The southern part of the country includes a substantial portion of Lake Victoria, shared with Kenya and Tanzania. Uganda is in the African Great Lakes region. Uganda also lies within the Nile basin and has a varied but generally a modified equatorial climate.",
+        "creation":1962,
         "image": ""
     },
     {
-        "name": "",
-        "info": "",
-        "creation":0,
+        "name": "Ukraine",
+        "info": "Ukraine is a country in Eastern Europe. It spans an area of 603,628 km2 (233,062 sq mi). With a population of 43 million, Ukraine is the eighth-most populous country in Europe. The nation's capital and largest city is Kyiv. It is a developing country with a lower-middle income economy. Ukraine is among the poorest countries in Europe. It suffers from low life expectancy and widespread corruption. However, due to its extensive fertile land, Ukraine is one of the largest grain exporters in the world.",
+        "creation":1649,
         "image": ""
     },
     {
-        "name": "",
-        "info": "",
-        "creation":0,
+        "name": "United Arab Emirates",
+        "info": "The United Arab Emirates is a country in Western Asia. It is located at the eastern end of the Arabian Peninsula, and shares borders with Oman and Saudi Arabia, while having maritime borders in the Persian Gulf with Qatar and Iran. Abu Dhabi is the nation's capital, while Dubai, the most populous city, is an international hub.",
+        "creation":1971,
         "image": ""
     },
     {
-        "name": "",
-        "info": "",
-        "creation":0,
+        "name": "United Kingdom",
+        "info": "The United Kingdom of Great Britain and Northern Ireland is a sovereign country in north-western Europe, off the north-­western coast of the European mainland. It includes the island of Great Britain, the north-­eastern part of the island of Ireland, and many smaller islands within the British Isles. The Irish Sea separates Great Britain and Ireland. The total area of the United Kingdom is 93,628 square miles (242,500 km2), with an estimated population of 67 million.",
+        "creation":1707,
         "image": ""
     },
     {
-        "name": "",
-        "info": "",
-        "creation":0,
+        "name": "United States of America",
+        "info": "The United States of America is a country primarily located in North America. It consists of 50 states, a federal district, five major unincorporated territories, 326 Indian reservations, and nine minor outlying islands. The country is nearly 3.8 million square miles (9.8 million square kilometers) big and with a population of more than 331 million people. The national capital is Washington, D.C., and the most populous city and financial center is New York City.",
+        "creation":1776,
         "image": ""
     },
     {
-        "name": "",
-        "info": "",
-        "creation":0,
+        "name": "Uruguay",
+        "info": "Uruguay is a country in South America. It shares borders with Argentina to its west and southwest and Brazil to its north and northeast; while bordering the Río de la Plata to the south and the Atlantic Ocean to the southeast. Uruguay covers an area of approximately 176,000 square kilometers (68,000 sq mi) and has a population of an estimated 3.51 million, of whom 2 million live in the metropolitan area of its capital and largest city, Montevideo.",
+        "creation":1815,
         "image": ""
     },
     {
-        "name": "",
-        "info": "",
-        "creation":0,
+        "name": "Uzbekistan",
+        "info": "Uzbekistan is a double-landlocked country in Central Asia. It is surrounded by five landlocked countries: Kazakhstan to the north; Kyrgyzstan to the northeast; Tajikistan to the southeast; Afghanistan to the south, Turkmenistan to the south-west. Its capital and largest city is Tashkent. Uzbekistan is part of the Turkic languages world, as well as a member of the Organisation of Turkic States. Uzbek language is the majority-spoken language in Uzbekistan.",
+        "creation":1991,
         "image": ""
     },
     {
-        "name": "",
-        "info": "",
-        "creation":0,
+        "name": "Vanuatu",
+        "info": "Vanuatu is an island country located in the South Pacific Ocean. The archipelago, which is of volcanic origin, is 1,750 km (1,090 mi) east of northern Australia, 540 km (340 mi) northeast of New Caledonia, east of New Guinea, southeast of the Solomon Islands, and west of Fiji. It was first inhabited by Melanesian people. The first Europeans to visit the islands were a Spanish expedition led by Portuguese navigator Fernandes de Queirós, who arrived on the largest island, Espíritu Santo, in 1606.",
+        "creation":1980,
+        "image": ""
+    },
+    {
+        "name": "Vatican City",
+        "info": "Vatican City is an independent city-state and enclave located within Rome, Italy.The Vatican City State, also known simply as the Vatican, became independent from Italy with the Lateran Treaty (1929), and it is a distinct territory under 'full ownership, exclusive dominion, and sovereign authority and jurisdiction' of the Holy See, itself a sovereign entity of international law, which maintains the city state's temporal, diplomatic, and spiritual independence. With an area of 49 hectares (121 acres) and a population of about 825, it is the smallest state in the world by both area and population.",
+        "creation":756,
+        "image": ""
+    },
+
+    {
+        "name": "Venezuela",
+        "info": "Venezuela is a country on the northern coast of South America, consisting of a continental landmass and many islands and islets in the Caribbean Sea. It has a territorial extension of 916,445 km2 (353,841 sq mi), and its population was estimated at 28 million in 2019. The capital and largest urban agglomeration is the city of Caracas.",
+        "creation":1811,
+        "image": ""
+    },
+    {
+        "name": "Vietnam",
+        "info": "Vietnam is a country in Southeast Asia. Located at the eastern edge of mainland Southeast Asia and it covers 311,699 square kilometres. The country has a population of over 96 million and its capital is Hanoi and its largest city is Ho Chi Minh City. With developing a lower-middle-income economy, Vietnam is one of the fastest growing economies of the 21st century. Contemporary issues in Vietnam include corruption and a poor human rights record.",
+        "creation":544,
+        "image": ""
+    },
+
+    {
+        "name": "Yemen",
+        "info": "Yemen is a country in Western Asia, on the southern end of the Arabian Peninsula. It borders Saudi Arabia to the north and Oman to the northeast and shares maritime borders with Eritrea, Djibouti, Somaliland and Somalia. It is the second-largest Arab sovereign state in the peninsula, occupying 555,000 square kilometres (214,000 square miles). The coastline stretches for about 2,000 kilometres (1,200 miles). Yemen's constitutionally stated capital, and largest city, is the city of Sanaa. As of 2021, the population of the country is estimated at 30,491,000.",
+        "creation":1918,
+        "image": ""
+    },
+    {
+        "name": "Zambia",
+        "info": "Zambia is a landlocked country at the crossroads of Central, Southern and East Africa, although its typically referred to as being in South-Central Africa. Its neighbours are the Democratic Republic of the Congo to the north, Tanzania to the north-east, Malawi to the east, Mozambique to the southeast, Zimbabwe and Botswana to the south, Namibia to the southwest, and Angola to the west. The capital city of Zambia is Lusaka, located in the south-central part of Zambia.",
+        "creation":1964,
+        "image": ""
+    },
+    {
+        "name": "Zimbabwe",
+        "info": "Zimbabwe is a landlocked country located in Southeast Africa, between the Zambezi and Limpopo Rivers, bordered by South Africa to the south, Botswana to the south-west, Zambia to the north, and Mozambique to the east. The capital and largest city is Harare. The second largest city is Bulawayo. A country of roughly 15 million people, Zimbabwe has 16 official languages, with English, Shona, and Ndebele the most common. It was once known as the 'Jewel of Africa' for its great prosperity.",
+        "creation":1965,
         "image": ""
     }
 ]
