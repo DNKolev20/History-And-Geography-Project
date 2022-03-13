@@ -1,3 +1,4 @@
+@import "https:// cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
 ul {
   list-style-type: none;
@@ -32,7 +33,9 @@ li a:hover:not(.active) {
 }
 
 body {
-  background-image: url('https://wallpaperaccess.com/full/3179399.jpg');
+  background-image: url('http://sta.laits.utexas.edu/wp-content/uploads/2020/04/BG3.png');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #activePlants{
@@ -84,4 +87,8 @@ button{
 	width:200px;
 	height:65px;
 	border-radius: 8px;
+}
+
+.block:not(:last-child) {
+  margin-bottom: 1.5rem;
 }
