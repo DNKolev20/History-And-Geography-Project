@@ -9,11 +9,11 @@
 #### 1. <i> Denis Kolev - Scrum Trainer </i>
 #### 2. <i> Kliment Tenev - Frontend Developer </i>
 #### 3. <i> Galin Georgiev - Backend Developer </i>
-#### 4. <i> Mariqn Ivanov - Designer </i>
+#### 4. <i> Mariyan Ivanov - Designer </i>
 
 <hr>
 
-### <i> Stoqn Ivanov - Mentor </i>
+### <i> Stoyan Ivanov - Mentor </i>
 
 <hr>
 
