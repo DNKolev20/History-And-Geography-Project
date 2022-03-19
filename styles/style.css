@@ -34,9 +34,10 @@ li a:hover:not(.active) {
 }
 
 body {
-  background-image: url('https://cdn.discordapp.com/attachments/510732619462475787/954687194092679178/photo-1486520299386-6d106b22014b.png');
+  background-image: url('https://cdn.wallpapersafari.com/26/78/mWASpz.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+  overflow-x: hidden;
 }
 
 #activePlants{
@@ -97,9 +98,10 @@ p{
   font-size: 25px;
   text-align: center;
   font-family: 'Heebo', sans-serif;
+  color:#113E5C;
 }
 
 h1{
   font-size: 40px;
-  font-family: 'Heebo', sans-serif;
+  color:#113E5C;
 }
