@@ -22,7 +22,7 @@
 #### 1. <i> Microsoft Word </i> <img src="https://cdn.freebiesupply.com/logos/large/2x/microsoft-word-2013-logo-logo-png-transparent.png" alt="word" width="18" height="18"/>
 #### 2. <i> Microsoft PowerPoint </i> <img src="https://www.freeiconspng.com/thumbs/ppt-icon/powerpoint-icon-microsoft-powerpoint-icon-network-powerpoint-icons-and-3.png" alt="PowerPoint" width="18" height="18"/>
 #### 3. <i> Microsoft Excel </i> <img src="https://snappgroup.org/wp-content/uploads/2021/10/excel.png" alt="Excel" width="18" height="18"/>
-#### 4. <i> Discord </i> <img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" alt="Discord" width="18" height="10"/>
+#### 4. <i> Teams </i> <img src="https://itecosys.com/backend_images_core/pages/201-300/240_teams.png?token=2c459a63b6a7d3efc94b32a1c24e2a65" alt="Teams" width="18" height="18"/>
 #### 5. <i> Github </i> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" width="16" height="16"/>
 
 <hr>

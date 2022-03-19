@@ -1,5 +1,6 @@
 @import "https:// cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300;400&display=swap');
 ul {
   list-style-type: none;
   margin: -10px;
@@ -33,9 +34,10 @@ li a:hover:not(.active) {
 }
 
 body {
-  background-image: url('http://sta.laits.utexas.edu/wp-content/uploads/2020/04/BG3.png');
+  background-image: url('https://cdn.wallpapersafari.com/26/78/mWASpz.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+  overflow-x: hidden;
 }
 
 #activePlants{
@@ -44,7 +46,6 @@ body {
 
 .right {
   float: right;
-  padding: 30px;
 }
 
 .left {
@@ -92,3 +93,30 @@ button{
 .block:not(:last-child) {
   margin-bottom: 1.5rem;
 }
+
+p{
+  font-size: 25px;
+  text-align: center;
+  font-family: 'Heebo', sans-serif;
+  color:#113E5C;
+}
+
+h1{
+  font-size: 40px;
+  color:#113E5C;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; 
+}
+
+.centerbox {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; 
+}
+

@@ -6,7 +6,8 @@ fetch("./scripts/countryList.json")
 
 // Get info about a country
 
-let getCountry = () => document.querySelector('input').value;;
+let getCountry = () => document.querySelector('input').value;
+let getAnswer = () => document.querySelector('input').value;
 
 function getCountryInfo (country) {
     for (let i in countries) {
@@ -25,21 +26,18 @@ function getCountryImage (country) {
 }
 
 function displayCountry() {
-    printCountryInfo();
-    displayCountryImage();
+    displayCountryInfo(getCountry());
+    displayCountryImage(getCountry());
 }
 
-function displayRandomCountry() {
-    id = generateRandomID();
-    printRandomCountryInfo(id);
-    displayRandomCountryImage(id);
+function displayRandomCountry(id) {
+    displayCountryInfo(getCountryByID(id));
+    displayCountryImage(getCountryByID(id));
 }
 
-let printCountryInfo = () => document.getElementById("countryText").innerHTML = getCountryInfo(getCountry());
-let printRandomCountryInfo = (id) => document.getElementById("countryText").innerHTML = getCountryInfo(getCountryByID(id));
+let displayCountryInfo = (country) => document.getElementById("countryText").innerHTML = getCountryInfo(country);
 
-let displayCountryImage = () => document.getElementById("countryImage").src = getCountryImage(getCountry());
-let displayRandomCountryImage = (id) => document.getElementById("countryImage").src = getCountryImageByID(id);
+let displayCountryImage = (country) => document.getElementById("countryImage").src = getCountryImage(country);
 
 // Test info about a country
     
@@ -48,12 +46,9 @@ let generateRandomQuestion = () => Math.random(3);
 let generateRandomID = () => Math.floor(Math.random() * countries.length);
 
 let getCountryByID = (id) => countries[id].name;
-let getCountryImageByID = (id) => countries[id].image;
-
-let testCountryInfo = () => prompt(getCountryInfo(getCountryByID(generateRandomID())));
 
 function checkAnswer() {
-    if (testCountryInfo() == getCountryByID()) {
+    if (getAnswer() == getCountryByID()) {
         alert("Your answer is right. You will now be asked another question.\nIf you want to stop the quiz press Cancel.");
         checkAnswer();
     }
