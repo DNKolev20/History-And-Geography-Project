@@ -58,36 +58,11 @@ body {
   margin-right: 50px;
 }
 
-#invisible1 {
-	opacity: 0.0;
-}
-
-#invisible2 {
-	opacity: 0.0;
-	font-size: 30px;
-	margin:70px;
-	margin-left: 50px;
-  margin-right: 50px;
-}
-
-#invisible3 {
-	opacity: 0.0;
-	margin:10px;
-}
-
-#form {
-    background-color: #98d99c;
-    border-style: solid;
-    border-radius: 30px;
-    width: 55%;
-    height: 90%;
-}
-
 button{
-	position: absolute;
-	width:200px;
+	width:100%;
 	height:65px;
 	border-radius: 8px;
+  text-align:center;
 }
 
 .block:not(:last-child) {
@@ -120,3 +95,32 @@ h1{
   width: 50%; 
 }
 
+.centerContactUs {
+  margin-top:150px; 
+  text-align:center;
+  margin:10% 30% 0% 30%;
+}
+label{
+  font-size:30px;
+  color:#113E5C;
+}
+.contactInput{
+  display: block;
+    width: 100%;
+    height: calc(1.5em + 0.75rem + 2px);
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    outline: none;
+    border-radius: 0.25rem
+}
+.contactButton{
+  margin-top:5%;
+  font-size:30px;
+  color:#113E5C;
+}

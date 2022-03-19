@@ -11,15 +11,46 @@
   <div>
     <ul>
       <li><a href="../index.html">Home</a></li>
-      <li><a href="Game1.html">Game1</a></li>
-      <li><a href="Game2.html">Game2</a></li>
-      <li style="float:right"><a class="active" href="pages/ContactUs.html" style="background-color: #111;">Contact Us</a></li>
+      <li><a href="Info.html">Info</a></li>
+      <li><a href="Quiz.html">Quiz</a></li>
+      <li style="float:right"><a class="active" href="ContactUs.html" style="background-color: #111;">Contact Us</a></li>
       </li>
     </ul>
   </div>
 
-  
+<div class="centerContactUs">
+  <div>
+    <div>
+      <form>
+        <div>
+            <label for="Name">Your name:</label>
+            <div>
+                <input type="text" id="Name" name="Name"required class="contactInput">
+            </div>
+        </div>
 
+        <div>
+            <label for="Email">Your email address:</label>
+            <div>
+                <input type="email" id="Email" name="Email" class="contactInput"required>
+            </div>
+        </div>
+
+        <div>
+            <label for="Message">Your message:</label>
+            <div>
+                <textarea id="Message" name="Message" maxlength="3000" class="contactInput" required></textarea>
+            </div>
+        </div>
+
+        <div>
+            <button type="submit" class="contactButton">Send Message</button>
+        </div>
+    </form>
+    </div>
+
+</div>
+</div>
   <script src="scripts/script.js"></script>
 </body>
 
