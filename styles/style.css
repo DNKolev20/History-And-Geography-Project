@@ -101,7 +101,7 @@ h1{
   margin:10% 30% 0% 30%;
 }
 label{
-  font-size:30px;
+  font-size:24px;
   color:#113E5C;
 }
 .contactInput{
@@ -117,10 +117,14 @@ label{
     background-clip: padding-box;
     border: 1px solid #ced4da;
     outline: none;
-    border-radius: 0.25rem
+    border-radius: 0.25rem;
+    margin-top:5px;
+    margin-bottom:15px;
 }
 .contactButton{
   margin-top:5%;
+  margin-left:30%;
   font-size:30px;
   color:#113E5C;
+  width:300px;
 }
