@@ -1,5 +1,6 @@
 @import "https:// cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300;400&display=swap');
 ul {
   list-style-type: none;
   margin: -10px;
@@ -95,8 +96,10 @@ button{
 p{
   font-size: 25px;
   text-align: center;
+  font-family: 'Heebo', sans-serif;
 }
 
 h1{
   font-size: 40px;
+  font-family: 'Heebo', sans-serif;
 }
