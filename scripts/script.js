@@ -1,4 +1,4 @@
-fetch("./scripts/countryList.json")
+fetch("../scripts/countryList.json")
 .then(response => {
    return response.json();
 })
